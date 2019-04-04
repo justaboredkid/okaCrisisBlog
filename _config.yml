@@ -1,7 +1,7 @@
 # Setup
 name:         A blog in Oka
 tagline:      "test"
-baseurl:      ""
+baseurl:      "/okaCrisisBlog"
 locale:       "en"
 
 # Gems
