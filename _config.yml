@@ -1,0 +1,12 @@
+# Setup
+name:         A blog in Oka
+tagline:      "test"
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
