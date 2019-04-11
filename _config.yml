@@ -1,6 +1,6 @@
 # Setup
 name:         A blog in Oka
-tagline:      "test"
+tagline:      ""
 baseurl:      "/okaCrisisBlog"
 locale:       "en"
 
